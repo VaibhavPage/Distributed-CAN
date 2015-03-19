@@ -53,17 +53,17 @@ To select different options in displayed menu in CANNodeServiceImpl -
     Menu 1 : File Store -
    i) Enter the name of file that you already have in the folder from where you are running FileTransImpl
 
-   Menu 2 : File Search - 
+   2 : File Search - 
    i) Enter name of the file that you want to search. 
       
 
-   Menu 3 : Leave - 
+   3 : Leave - 
    i) When Node wants to leave . Displays the Node IP to which control is given.
 
    NOTE : As Professor said in class, this implementation does not handle any kind of odd shaped zone.
       
 
-   Menu 4 : Print Information -
+   4 : Print Information -
    i) Prints the information about node's name , its zone boundary, name of files it has, files coordinates, its neighbors name, their   
       zone boundaries
 
