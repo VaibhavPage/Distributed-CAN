@@ -60,7 +60,7 @@ To select different options in displayed menu in CANNodeServiceImpl -
    3 : Leave - 
    i) When Node wants to leave . Displays the Node IP to which control is given.
 
-   NOTE : As Professor said in class, this implementation does not handle any kind of odd shaped zone.
+   NOTE : this implementation does not handle any kind of odd shaped zone.
       
 
    4 : Print Information -
