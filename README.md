@@ -1,17 +1,9 @@
-**************************************************** WELCOME TO DISTRIBUTED CAN ***************************************************************
-
-Author - Vaibhav Page
-
 NOTE : When a node requests for a file in CAN, the program doesnt print IP
        of node where file is stored in requesting node's terminal . Rather I did sysout in terminal of node where the file is actually present.
        So if you do search , you will directly get file from node where the file is stored , but sender's IP wont be displayed , instead
        in sender's terminal you will see the IP of the node who requested that file. Thank you.
 
-
-NOTE : I also have added .class files and stub class files in my submission. 
-
 This project demonstrates Distributed Content Addressable Network Implementation.
-Project is developed in Java.
 
 Main Interfaces - 
 1) CANNodeService - It exposes the methods that remote object of Peer/Node has.
